@@ -41,11 +41,14 @@
 
   #### GitHub Stats <br />
 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=patilvivekw&show_icons=true&theme=transparent) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patilvivekw&hide=TeX&layout=compact&theme=transparent)
+![Vivek Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patilvivekw&show_icons=true&theme=dark#gh-dark-mode-only)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patilvivekw&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only)
 
 </br>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patilvivekw&repo=ChatGPTApp&show_owner=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/patilvivekw/ChatGPTApp))
+[![ChatGPT iOS/macOS App](https://github-readme-stats.vercel.app/api/pin/?username=patilvivekw&repo=ChatGPTApp&show_owner=true&theme=dark#gh-dark-mode-only)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/patilvivekw/ChatGPTApp))
+  
 <!--
 **patilvivekw/patilvivekw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
