@@ -36,12 +36,16 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&color=green&logoColor=black)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=green&labelColor=green)
-  
-  
 </br>
 </br>
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=patilvivekw&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patilvivekw&hide=TeX&layout=compact&theme=radical)
+
+  #### GitHub Stats <br />
+
+  ![Stats](https://github-readme-stats.vercel.app/api?username=patilvivekw&show_icons=true&theme=transparent) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patilvivekw&hide=TeX&layout=compact&theme=transparent)
+
+</br>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patilvivekw&repo=ChatGPTApp&show_owner=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/patilvivekw/ChatGPTApp))
 <!--
 **patilvivekw/patilvivekw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
