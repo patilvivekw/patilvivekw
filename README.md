@@ -41,9 +41,9 @@
 
   #### GitHub Stats <br />
 
-![Vivek Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patilvivekw&show_icons=true&theme=dark#gh-dark-mode-only)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patilvivekw&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only)
+![Vivek Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patilvivekw&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)
+&nbsp; &nbsp; &nbsp; &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patilvivekw&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only&hide=cmake,c++)
 
 </br>
 
