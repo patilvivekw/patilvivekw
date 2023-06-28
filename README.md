@@ -47,6 +47,8 @@
 
 </br>
 
+  #### 📌  Pinned Repos <br />
+
 [![ChatGPT iOS/macOS App](https://github-readme-stats.vercel.app/api/pin/?username=patilvivekw&repo=ChatGPTApp&show_owner=true&theme=dark#gh-dark-mode-only)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/patilvivekw/ChatGPTApp))
   
 <!--
