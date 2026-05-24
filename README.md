@@ -3,8 +3,8 @@
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
-  - 🔭 I’m currently working as a Technology Manager @Deloitte, Pune, India
-  - 🌱 My growing skillset includes Java, Kotlin, Swift, Android, iOS, Dart, Flutter, Python, Firebase, NodeJS, and Mongo DB.
+  - 🔭 I’m currently working as a Technology Manager @Deloitte, Melbourne, Australia
+  - 🌱 My growing skillset includes Kotlin, Swift, Android, iOS, Java, Dart, Flutter, Python, Firebase, NodeJS, and Mongo DB.
   - 💬 Ask me about how to solve a Rubik's Cube and Sci-Fi movies
   - 😄 Pronouns: He / Him
   
